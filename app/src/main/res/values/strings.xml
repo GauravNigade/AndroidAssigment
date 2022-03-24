@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="clearAC">AC</string>
+    <string name="equalto">=</string>
+    <string name="back">←</string>
+    <string name="plusminus">+/-</string>
+    <string name="divide">÷</string>
+</resources>
